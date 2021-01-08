@@ -1,0 +1,2 @@
+I used Eclipse to program and compile my program, you should be able to just compile the three .java files (Main, Graph, and Vertex) together!
+The makefile should work as well if necessary.
